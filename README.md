@@ -104,7 +104,6 @@ Skills include the use of Keras models, convolutional neural networks, image tra
 * Dataset (images): [images.npy](https://drive.google.com/file/d/1YI6Smq5nKqHbetuIku5f9_8mjK7p_lfT/view?usp=share_link)
 * Dataset (labels): [labels.csv](https://drive.google.com/file/d/1sVBi_zg9m1cTsjIU7jbsZ44lTZuZD_mm/view?usp=share_link)
 
-
 ## How to Use
 Each module references Jupyter notebooks corresponding to the project assignments. The notebooks are organized sequentially, and detailed instructions for each assignment can be found within the notebooks. Additionally, relevant datasets and resources are included in the respective project descriptions.
 
