@@ -79,7 +79,7 @@ __Objective:__  Analyze the customers' data and information to provide recommend
 
 Skills include supervised learning, decision tree analysis, model evaluation, and ensemble methods including bagging and boosting.
 
-* Notebook: Visit with Us: [Travel Package Purchase Prediction](https://github.com/jreves/AIML_Projects/blob/main/Visit%20With%20Us%20Travel%20Packages.ipynb)
+* Notebook: [Visit with Us:Travel Package Purchase Prediction](https://github.com/jreves/AIML_Projects/blob/main/Visit%20With%20Us%20Travel%20Packages.ipynb)
 * Dataset: : [Tourism.xlsx](https://docs.google.com/spreadsheets/d/1XVEGoAaCYMWuUIUHigjn6atFgkMkKhjs/edit?usp=share_link&ouid=108439623966896665720&rtpof=true&sd=true)
 
 
@@ -107,13 +107,13 @@ Skills include the use of Keras models, convolutional neural networks, image tra
 ### Project 9: Twitter Sentiment Analysis for Airline Services
 _Introduction to Natural Language Processing_
 
-__Objective:__ To identify the plant seedlings species from 12 different species using a convolutional neural network
+__Objective:__ To identify the sentiment expressed in a tweet to understand an airline customer's satisfaction
 
-Skills include the use of Keras models, convolutional neural networks, image transformations, and computer vision libraries.
+Skills include preprocessing raw text, the use of vectorization techniques, sentiment analysis, parameter tuning, and evaluation of model results with a confusion matrix.
 
-* Notebook: [Plant Seedlings](https://github.com/jreves/AIML_Projects/blob/main/Plant%20Seedlings.ipynb)
-* Dataset (images): [images.npy](https://drive.google.com/file/d/1YI6Smq5nKqHbetuIku5f9_8mjK7p_lfT/view?usp=share_link)
-* Dataset (labels): [labels.csv](https://drive.google.com/file/d/1sVBi_zg9m1cTsjIU7jbsZ44lTZuZD_mm/view?usp=share_link)
+* Notebook: [Twitter US Airline Sentiment](https://github.com/jreves/AIML_Projects/blob/main/Twitter%20US%20Airline%20Sentiment.ipynb) 
+* Dataset: [Tweets.csv](https://drive.google.com/file/d/1_K4bUrE1GtFYElsLOxFejICNynielIlg/view?usp=share_link)
+
 
 ## How to Use
 Each module references Jupyter notebooks corresponding to the project assignments. The notebooks are organized sequentially, and detailed instructions for each assignment can be found within the notebooks. Additionally, relevant datasets and resources are included in the respective project descriptions.
