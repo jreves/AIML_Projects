@@ -109,7 +109,7 @@ _Introduction to Natural Language Processing_
 
 __Objective:__ To identify the sentiment expressed in a tweet to understand an airline customer's satisfaction
 
-Skills include preprocessing raw text, the use of vectorization techniques, sentiment analysis, parameter tuning, and evaluation of model results with a confusion matrix.
+Skills include preprocessing raw text, the use of vectorization techniques, sentiment analysis, parameter tuning, configuration of an LSTM neural network, and evaluation of model results with a confusion matrix.
 
 * Notebook: [Twitter US Airline Sentiment](https://github.com/jreves/AIML_Projects/blob/main/Twitter%20US%20Airline%20Sentiment.ipynb) 
 * Dataset: [Tweets.csv](https://drive.google.com/file/d/1_K4bUrE1GtFYElsLOxFejICNynielIlg/view?usp=share_link)
