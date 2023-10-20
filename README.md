@@ -72,6 +72,17 @@ Skills include supervised learning, decision tree analysis, model evaluation, an
 * Notebook: [Care Bank Term Deposit Subscriptions](https://github.com/jreves/AIML_Projects/blob/main/Care%20Bank%20Term%20Deposit%20Subscriptions.ipynb)
 * Dataset: : [bank-full.csv](https://drive.google.com/file/d/1Sa0G6VyWpbRg0Xks6EkmKh5Q64bX05dR/view?usp=share_link)
 
+### Project 6 (alternate): Travel Package Purchase Prediction
+_Ensemble Techniques_
+
+__Objective:__  Analyze the customers' data and information to provide recommendations to the Policy Maker and build a model to predict the potential customer who is going to purchase the newly introduced travel package. 
+
+Skills include supervised learning, decision tree analysis, model evaluation, and ensemble methods including bagging and boosting.
+
+* Notebook: Visit with Us: [Travel Package Purchase Prediction](https://github.com/jreves/AIML_Projects/blob/main/Visit%20With%20Us%20Travel%20Packages.ipynb)
+* Dataset: : [Tourism.xlsx](https://docs.google.com/spreadsheets/d/1XVEGoAaCYMWuUIUHigjn6atFgkMkKhjs/edit?usp=share_link&ouid=108439623966896665720&rtpof=true&sd=true)
+
+
 ### Project 7: Bank Customer Churn Prediction
 _Introduction to Neural Networks_
 
